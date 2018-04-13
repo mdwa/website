@@ -22,7 +22,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: mdwa/twd-jt-mdwa
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
