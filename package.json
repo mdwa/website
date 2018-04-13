@@ -1,0 +1,33 @@
+{
+  "name": "mdwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdwa/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdwa/website/issues"
+  },
+  "homepage": "https://github.com/mdwa/website#readme",
+  "dependencies": {},
+  "description": "MDWA web site",
+  "devDependencies": {
+    "gulp-clean-css": "^3.9.3",
+    "gulp-uglify": "^3.0.0",
+    "uglify-es": "^3.3.9",
+    "child_process": "^1.0.2",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-image-resize": "^0.13.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-shell": "^0.6.5",
+    "gulp-util": "^3.0.8",
+    "run-sequence": "^2.2.1"
+  }
+}
